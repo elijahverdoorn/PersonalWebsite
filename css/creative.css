@@ -84,6 +84,11 @@ aside {
     padding: 0;
 }
 
+.hidden-content {
+    display: none;
+    visibility: hidden;
+}
+
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;

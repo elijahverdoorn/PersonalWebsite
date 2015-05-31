@@ -25,6 +25,10 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
 
+    <!-- Lightbox CSS -->
+    <link href="css/featherlight.min.css" type="text/css" rel="stylesheet"/>
+
+
 </head>
 
 <body id="page-top">
@@ -136,7 +140,8 @@
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-3 col-sm-6">
-                    <a href="portfolio/oleville/" class="portfolio-box">
+                    <a href="#" class="portfolio-box" data-featherlight="#lightboxOleville">
+                    <!-- Lightbox DIVS -->
                         <img src="img/portfolio/oleville.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -151,7 +156,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#" class="portfolio-box" data-featherlight="#lightboxTile">
                         <img src="img/portfolio/sdproj.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -166,7 +171,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#" class="portfolio-box" data-featherlight="#lightboxALU">
                         <img src="img/portfolio/alu.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -181,7 +186,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#" class="portfolio-box" data-featherlight="#lightboxAssembly">
                         <img src="img/portfolio/assembly.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -230,6 +235,38 @@
         </section>
     </div>
 
+
+    <!-- lightbox data -->
+    <div class="hidden-content">
+        <div id="lightboxOleville" class="lightbox">
+            <h1> Oleville </h1>
+            <img src="img/portfolio/oleville.png" class="img-responsive" alt="">
+            <p>The website I made for St. Olaf college's Student Government Association (SGA).</p>
+            <a href="www.oleville.com" class="">View the Site!</a>
+        </div>
+
+        <div id="lightboxTile">
+            <h1> Tile-Based Game Engine </h1>
+            <img src="img/portfolio/sdproj.png" class="img-responsive" alt="">
+            <p>An (incomplete) game engine I made for the final project of CSCI251: Software Design at St. Olaf College. The engine is written in C++ and uses the SFML library. Source code can be seen on GitHub.</p>
+            <a href="https://github.com/elijahverdoorn/SD-Project-Spring-15" class="">View the Code!</a>
+        </div>
+
+        <div id="lightboxALU">
+            <h1> Model ALU </h1>
+            <img src="img/portfolio/alu.png" class="img-responsive" alt="">
+            <p>The Arithmatic Logic Unit (ALU) is an integral part of the CPU. In St. Olaf College's CSCI241: Hardware Design, an assingment was given to write an implementation of the processes of the ALU in a high-level programming language. My solution, written in C++, can be viewed on GitHub.</p>
+            <a href="https://github.com/elijahverdoorn/HD-Fall-14/tree/master/pp2" class="">View the Code!</a>
+        </div>
+
+        <div id="lightboxAssembly">
+            <h1> Assembly Language Exploration Project </h1>
+            <img src="img/portfolio/assembly.png" class="img-responsive" alt="">
+            <p>Assembly languages are low-level programming languages that present unique challenges to programmers. For the final project in CSCI241: Hardware Design, the class was tasked to create a text-analysis and string-substitution program. Written in as88 assembly, my creation can be found by following the link below to my GitHub page!</p>
+            <a href="https://github.com/elijahverdoorn/HD-Fall-14/tree/master/pp3/submission" class="">View the Code!</a>
+        </div>
+    </div>
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
@@ -243,6 +280,9 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+
+    <!-- JS for lightbox -->
+    <script src="js/featherlight.min.js"></script>
 
 </body>
 
