@@ -24,6 +24,10 @@ hr.light {
     border-color: #fff;
 }
 
+hr.light-black {
+    border-color: #000000;
+}
+
 a {
     color: #fff;
     -webkit-transition: all .35s;
@@ -497,4 +501,8 @@ body {
     padding-left: auto;
     margin-right: auto;
     margin-left: auto;
+}
+
+.black-a-tag a {
+    color: #777;
 }
