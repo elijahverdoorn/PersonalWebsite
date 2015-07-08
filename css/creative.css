@@ -84,6 +84,11 @@ aside {
     padding: 0;
 }
 
+.hidden-content {
+    display: none;
+    visibility: hidden;
+}
+
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
@@ -475,7 +480,7 @@ fieldset[disabled] .btn-primary.active {
 
 img::selection {
     color: #fff;
-    background: 0 0;
+    background: 0 0; 
 }
 
 img::-moz-selection {
@@ -485,4 +490,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.portfolio-lightbox h1 {
+    padding-right: auto;
+    padding-left: auto;
+    margin-right: auto;
+    margin-left: auto;
 }
