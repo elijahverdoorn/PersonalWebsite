@@ -35,6 +35,10 @@ a {
     transition: all .35s;
 }
 
+.hidden-content .lightbox a {
+    color: rgb(100,100,100);
+}
+
 a:hover,
 a:focus {
     color: #2D882D;
@@ -505,10 +509,4 @@ body {
 
 .black-a-tag a {
     color: #777;
-}
-
-
-.lightbox-link {
-    visibility: visible;
-    color: black;
 }

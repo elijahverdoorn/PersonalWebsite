@@ -503,12 +503,10 @@ body {
     margin-left: auto;
 }
 
-.black-a-tag a {
-    color: #777;
+a .lightbox {
+    color: rgb(100,100,100);
 }
 
-
-.lightbox-link {
-    visibility: visible;
-    color: black;
+.black-a-tag a {
+    color: #777;
 }
