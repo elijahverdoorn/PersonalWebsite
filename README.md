@@ -1,1 +1,0 @@
-Code for my personal website. See it live at www.elijahverdoorn.com
