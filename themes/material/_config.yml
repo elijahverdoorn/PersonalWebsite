@@ -71,7 +71,7 @@ background:
 # Images Settings
 img:
     logo: "/img/logo.png"
-    avatar: "/img/avatar.png"
+    avatar: "/images/headshot.png"
     daily_pic: "/img/daily_pic.png"
     sidebar_header: "/img/sidebar_header.png"
     random_thumbnail: "/img/random/material-"
@@ -120,15 +120,15 @@ toc:
 
 # SNS Menu
 sns:
-    email: youremail@email.com
-    facebook: "https://www.facebook.com/facebook"
-    twitter: "https://twitter.com/twitter"
-    googleplus: "https://www.google.com/"
+    email: elijah@elijahverdoorn.com
+    facebook: "https://www.facebook.com/elijah.verdoorn"
+    twitter: "https://www.facebook.com/elijah.verdoorn"
+    googleplus:
     weibo:
     instagram:
     tumblr:
-    github:
-    linkedin:
+    github: "https://github.com/elijahverdoorn"
+    linkedin: "https://www.linkedin.com/in/elijahverdoorn/"
     zhihu:
     bilibili:
     telegram:
@@ -210,8 +210,8 @@ search:
 # Available value:
 #     baidu | google | cnzz
 analytics:
-    use:
-    site_id:
+    use: google
+    site_id: UA-102071773-1
 
 # Leancloud Views
 leancloud:
