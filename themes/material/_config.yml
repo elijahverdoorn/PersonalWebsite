@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "/img/favicon.png"
-    high_res_favicon: "/img/favicon.png"
-    apple_touch_icon: "/img/favicon.png"
+    favicon: "/images/favicon-low.png"
+    high_res_favicon: "/images/favicon.png"
+    apple_touch_icon: "/images/favicon.png"
     keywords:
     site_verification:
         google:
@@ -33,7 +33,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "Hi! How are you?"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -70,7 +70,7 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/logo.png"
+    logo: "/images/favicon.png"
     avatar: "/images/headshot.png"
     daily_pic: "/img/daily_pic.png"
     sidebar_header: "/img/sidebar_header.png"
@@ -162,10 +162,14 @@ sidebar:
         icon: chrome_reader_mode
         divider: false
     pages:
-        #About:
-            #link: "/about"
-            #icon: person
-            #divider: false
+        Background:
+            link: "/background"
+            icon: person
+            divider: false
+        Work Experience:
+            link: "/experience"
+            icon: business
+            divider: false
     article_num:
         use: false
         divider: false
