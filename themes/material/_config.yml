@@ -156,7 +156,7 @@ sidebar:
     archives:
         use: true
         icon: inbox
-        divider: false
+        divider: true
     categories:
         use: false
         icon: chrome_reader_mode
@@ -170,6 +170,10 @@ sidebar:
             link: "/experience"
             icon: business
             divider: false
+        Projects:
+                link: "/projects"
+                icon: developer board
+                divider: false
     article_num:
         use: false
         divider: false
