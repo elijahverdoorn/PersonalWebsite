@@ -172,7 +172,7 @@ sidebar:
             divider: false
         Projects:
                 link: "/projects"
-                icon: developer board
+                icon: web
                 divider: false
     article_num:
         use: false
