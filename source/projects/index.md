@@ -5,7 +5,7 @@ date: 2017-07-08 23:14:34
 
 # All About Olaf
 
-Development on All About Olaf began about a year before I took over the project, but I quickly realized that the native iOS application needed a complete rewrite. The first move I made to meet the deadline presented of September 2016 after beginning the project in May of the same year was to adopt React Native, enabling rapid cross-platform native development for both iOS and Android using JavaScript. From there, the application's development was a learning experience into the React ecosystem, which I have remained interested in. After an on-time release, the application is open-source and has been installed by 50% of the students on St. Olaf's campus. 
+Development on All About Olaf began about a year before I took over the project, but I quickly realized that the native iOS application needed a complete rewrite. The first move I made to meet the deadline presented of September 2016 after beginning the project in May of the same year was to adopt React Native, enabling rapid cross-platform native development for both iOS and Android using JavaScript. From there, the application's development was a learning experience into the React ecosystem, which I have remained interested in. Still being updated after an on-time release, the application is open-source and has been installed by 50% of the students on St. Olaf's campus. 
 
 # Oleville
 

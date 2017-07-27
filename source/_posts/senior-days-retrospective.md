@@ -1,8 +1,10 @@
 ---
-title: Senior Days Retrospective
+title: Senior Days Trivia Game Retrospective
 date: 2017-07-10 21:56:49
-tags:
+thumbnail: seniordayslogo.png
 ---
+
+![Senior Days Logo 2017](seniordayslogo.png)
 
 # Background
 
