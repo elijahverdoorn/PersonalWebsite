@@ -4,8 +4,8 @@
 
 # Site
 title: Elijah Verdoorn
-subtitle:
-description:
+subtitle: Student, Programmer, Musician
+description: Student, Programmer, Musician
 author: Elijah Verdoorn
 language: en
 timezone:
@@ -63,9 +63,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material
+theme: clexy
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Prism - for clexy
+prism_plugin:
+        mode: 'preprocess'
+        theme: 'default'
+        line_number: false
