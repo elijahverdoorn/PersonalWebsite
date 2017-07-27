@@ -31,11 +31,8 @@ To summarize, I ended up with:
 Starting any new project is intimidating, but I didn't have much time to waste, so I set out to build a stable sever solution, thinking that I could build my client out later. This turned out to be a good method, but left one fatal flaw to be discussed later. I got my database set up quickly, and found that the fastest way of working with it was to just write an `init.sql` script that I could run after deleting the entire database if I made a mistake. While this may seem ridiculous to some, and it is for any real production system, remember that there were no users for my product for it's entire development cycle, and that the data only needed to exist for a few hours during the actual event. While there are many more sophisticated solutions, this method worked for me since SQLite can create databases instantly and doesn't need to be run in a separate process from my web server. 
 
 ## `init.sql`
-```
--- Init script
--- Create tables for Senior Days Quiz Game
--- Elijah Verdoorn, May 2017
 
+```sql
 CREATE TABLE teams (
 	id INTEGER PRIMARY KEY ASC,
 	name VARCHAR NOT NULL,
@@ -66,7 +63,7 @@ CREATE TABLE choice (
 ```
 
 Once I had my database schema decided on, I got to work accessing it through the web server, which turned out to be really simple given the `sqlite` package, all I had to do was
-```
+```javascript
 // make connection to SQLite3 and start server
 Promise.resolve().then(() => db.open('./db/database.db', {Promise}))
 		.catch(err => console.error(err.stack))
