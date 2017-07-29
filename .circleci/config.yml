@@ -1,13 +1,13 @@
 version: 2
 jobs:
         build:
+                working_directory: ~/PersonalWebsite
                 docker:
                         - image: circleci/node:7.10
-                        working_directory: ~/PersonalWebsite
-                        steps:
-                                - checkout
-                                - run: npm install
-                                - run: yarn remove hexo-renderer-ejs
-                                - run: yarn add hexo-renderer-jade
-                                 -run: yarn add hexo-prism-plugin
-                                 -run: hexo generate
+                steps:
+                        - checkout
+                        - run: npm install
+                        - run: yarn remove hexo-renderer-ejs
+                        - run: yarn add hexo-renderer-jade
+                         -run: yarn add hexo-prism-plugin
+                         -run: hexo generate
