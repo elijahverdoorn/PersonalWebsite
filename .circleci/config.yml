@@ -15,5 +15,6 @@ jobs:
                     name: Production Deploy
                     command: |
                       if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                          hexo generate
                           scp -r -o StrictHostKeyChecking=no /public $PROD_USER@$PROD_IP:/PersonalWebsite
                       fi
