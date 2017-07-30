@@ -6,7 +6,10 @@ jobs:
             - image: circleci/node:7.10
         steps:
             - checkout
-            - run: npm install
+            - run: 
+                   npm install -g hexo-cli
+                   
+                   npm install
             
                    yarn add hexo-renderer-jade
                    
