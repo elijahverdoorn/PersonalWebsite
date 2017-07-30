@@ -8,8 +8,4 @@ deployment:
                 commands:
                         - hexo clean
                         - hexo generate
-                        -
-                          if [ "${CIRCLE_BRANCH}" == "master" ]; then
-                                  hexo generate
-                                  scp -r -o StrictHostKeyChecking=no /public $PROD_USER@$PROD_IP:/PersonalWebsite
-                          fi
+                        - if [ "${CIRCLE_BRANCH}" == "master" ]; then echo "Deploying to Production" ; hexo generate; scp -r -o StrictHostKeyChecking=no ./public/* $PROD_USER@$PROD:~/PersonalWebsite ; fi;
