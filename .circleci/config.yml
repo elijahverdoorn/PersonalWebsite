@@ -11,3 +11,9 @@ jobs:
                    yarn add hexo-renderer-jade
                    yarn add hexo-prism-plugin
                    hexo generate
+            - deploy:
+                    name: Production Deploy
+                    command: |
+                      if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                          scp /public $PROD_USER@$PROD_IP:/PersonalWebsite
+                      fi
