@@ -1,0 +1,15 @@
+# config
+keywords: ""
+menu:
+  home: /
+  archives: /archives
+  projects: /projects
+  work experience: /experience
+  contact: /contact
+
+# Content
+excerpt_link: Read more
+
+# Miscellaneous
+#rss: /atom.xml
+#google_analytics:

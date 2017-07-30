@@ -1,0 +1,19 @@
+version: 2
+jobs:
+    build:
+        working_directory: ~/PersonalWebsite
+        docker:
+            - image: circleci/node:7.10
+        steps:
+            - checkout
+            - run: npm install
+                   yarn remove hexo-renderer-ejs
+                   yarn add hexo-renderer-jade
+                   yarn add hexo-prism-plugin
+                   hexo generate
+            - deploy:
+                    name: Production Deploy
+                    command: |
+                      if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                          scp /public $PROD_USER@$PROD_IP:/PersonalWebsite
+                      fi
