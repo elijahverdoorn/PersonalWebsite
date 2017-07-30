@@ -7,9 +7,13 @@ jobs:
         steps:
             - checkout
             - run: npm install
+            
                    yarn remove hexo-renderer-ejs
+            
                    yarn add hexo-renderer-jade
+                   
                    yarn add hexo-prism-plugin
+                   
                    hexo generate
             - deploy:
                     name: Production Deploy
