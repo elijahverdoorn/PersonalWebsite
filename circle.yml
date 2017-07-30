@@ -1,0 +1,15 @@
+test:
+        override:
+                - npm install -g hexo-cli
+                - hexo generate
+deployment:
+        production:
+                branch: master
+                commands:
+                        - hexo clean
+                        - hexo generate
+                        -
+                          if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                                  hexo generate
+                                  scp -r -o StrictHostKeyChecking=no /public $PROD_USER@$PROD_IP:/PersonalWebsite
+                          fi
