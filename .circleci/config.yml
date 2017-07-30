@@ -15,5 +15,5 @@ jobs:
                     name: Production Deploy
                     command: |
                       if [ "${CIRCLE_BRANCH}" == "master" ]; then
-                          echo yes | scp /public $PROD_USER@$PROD_IP:/PersonalWebsite
+                          yes | scp -r /public $PROD_USER@$PROD_IP:/PersonalWebsite
                       fi
