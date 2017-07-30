@@ -7,6 +7,8 @@ jobs:
         steps:
             - checkout
             - run:
+                   sudo npm install -g hexo-cli
+
                    npm install
 
                    yarn add hexo-renderer-jade
