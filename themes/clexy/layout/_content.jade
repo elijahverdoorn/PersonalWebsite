@@ -8,8 +8,7 @@ if is_home()
         span.post-meta
         //-  | Published on
           time(itemprop='datePublished', datetime= post.date.toISOString())= full_date(new Date(post.date), ' dddd, MMMM Do YYYY')
-        p(itemprop='text').post-excerpt= post.intro ? post.intro : post.content.replace(/<(?:.|\n)*?>/gm, '').substr(0, 220)
-
+        p(itemprop='text').post-excerpt= post.intro ? post.intro : post.content.replace(/<(?:.|\n)*?>/gm, '').substr(0, 220) + "..."
 //- articles page
 if is_archive() || (is_page() && page.title.toLowerCase() == 'articles')
   article.full
