@@ -1,8 +1,10 @@
 ---
-title: Building a word Clock
+title: Building a Word Clock
 date: 2018-02-10 15:53:48
 tags:
 ---
+
+![Word Clock Picture](wc.jpg)
 
 # What is a word clock?
 
