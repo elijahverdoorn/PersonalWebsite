@@ -1,11 +1,18 @@
 test:
         override:
-                - npm install -g hexo-cli
-                - hexo generate
+                - npm install hexo --save
+                - npm install hexo-cli
+                - ./node_modules/hexo-cli/bin/hexo generate
+                  # - hexo generate
 deployment:
         production:
                 branch: master
                 commands:
-                        - hexo clean
-                        - hexo generate
-                        - if [ "${CIRCLE_BRANCH}" == "master" ]; then echo "Deploying to Production" ; hexo generate; scp -r -o StrictHostKeyChecking=no ./public/* $PROD_USER@$PROD:~/PersonalWebsite ; fi;
+                        - npm install hexo --save
+                        - npm install hexo-cli
+                        - ./node_modules/hexo-cli/bin/hexo clean
+                        - ./node_modules/hexo-cli/bin/hexo generate
+                        - if [ "${CIRCLE_BRANCH}" == "master" ]; then echo "Deploying to Production" ; ./node_modules/hexo-cli/bin/hexo generate; scp -r -o StrictHostKeyChecking=no ./public/* $PROD_USER@$PROD:~/PersonalWebsite ; fi;
+                          # - hexo clean
+                          # - hexo generate
+                          # - if [ "${CIRCLE_BRANCH}" == "master" ]; then echo "Deploying to Production" ; hexo generate; scp -r -o StrictHostKeyChecking=no ./public/* $PROD_USER@$PROD:~/PersonalWebsite ; fi;
