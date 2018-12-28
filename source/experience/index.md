@@ -2,6 +2,9 @@
 title: Work Experience
 date: 2017-07-08 22:11:45
 ---
+
+I am currently working as a Software Engineer on the Android team at Pandora. Below is a selection of past roles I've held.
+
 # Pandora
 #### Software Engineering Intern
 
