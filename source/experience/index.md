@@ -3,9 +3,19 @@ title: Work Experience
 date: 2017-07-08 22:11:45
 ---
 
-I am currently working as a Software Engineer on the Android team at Pandora. Below is a selection of past roles I've held.
+I am currently working as a Software Engineer on the Core Platform team at WeWork. See below for descriptions of past roles I've held.
+
+# WeWork
+#### Software Engineer
+Joining WeWork in August 2019 gave me the opportunity to lead the development of a spatial rendering SDK for Android clients. Design, implementation, testing, documentation, and tooling around this SDK all fell under my purview. During the development process of this SDK I established team practices around using Kotlin coroutines, testing under a continuous integration system, and clean code via automated linting and customized lint rules that would eventually be shipped to SDK consumers. This SDK was developed with flexibility and ease of consumption in mind, with adoption beginning within the company and eventually expanding to external consumers.
+
 
 # Pandora
+#### Software Engineer
+As a Software Engineer at Pandora I gained additional experience working with Android, extended my knowledge of effective development practices, expanded my leadership abilities, and became more confident in my technical capabilities. I was a strong advocate for adopting emerging technologies into the code I was responsible for; I refactored large swaths of the existing codebase during the years I held this position. Specific technical accomplishments include a migration of the codebase to a reactive architecture, expansion of the usage of Kotlin in the codebase to over 50%, a complete re-write of revenue-generating ads code, and the removal of error-prone legacy code.
+
+In addition to the technical experience that I gained, my time at Pandora taught me a great deal about how to lead an engineering team. I gave presentations, mentored interns and apprentices, wrote blog posts, published open-source code, maintained onboarding and general team documentation, and worked to improve my team's communication practices. Working in this capacity also gave me the chance to work with remote developers, leading to the improvement of my written and asynchronous communication skills. I enjoyed the opportunity to expand my capabilities and learn more about how products can be improved by streamlining the development process.
+
 #### Software Engineering Intern
 
 Summer 2017 afforded me the opportunity to work as an intern at Pandora Media, Inc. on their Android team. Through this opportunity, I gained a deeper understanding of the software engineering process for applications that are targeted to a large audience, more hands-on experience with unit and UI testing, continuous integration techniques, UX design, content management, and big data querying and manipulation. I completed development of an internal prototype feature within the existing Android application and contributed to the development of two different versions of the production software. I also worked for the first time in the Kotlin language, which I found to be a pleasant, effective, and expressive programming language for the Android platform.
