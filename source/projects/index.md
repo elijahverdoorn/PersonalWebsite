@@ -3,6 +3,10 @@ title: Projects
 date: 2017-07-08 23:14:34
 ---
 
+# Recipebook
+
+Through my work in the Android development space I have become increasingly interested in the Kotlin programming language, specifically how the language handles background computation and reactive patterns via it's coroutine system. After becoming a go-to person on Pandora's android team for questions about both the coroutine system and how it compared to the more familiar RxJava library I began development of a set of examples that compared how to accomplish common tasks under both the native structured concurrency model and within RxJava's framework. My teammates at Pandora appreciated the samples and used them for reference, so I worked with the legal department to open-source these samples. While I no longer am the maintainer of this codebase due to not being a Pandora employee, I remain an occasional contributor to the repository.
+
 # Keep Score
 
 Keep Score is a Actions on Google & DialogFlow project that began as a hackathon exploration of the capabilities of the Actions platform. In just three days I implemented an agent that demonstrated the basics of conversation; expansion of these capabilities over time became a side project that has been important in keeping my JavaScript skills sharp. Code for this project can be found on my GitHub.
