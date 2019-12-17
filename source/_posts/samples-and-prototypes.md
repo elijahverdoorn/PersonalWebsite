@@ -1,6 +1,6 @@
 ---
 title: The Difference Between Samples and Prototypes
-date: 2019-11-21 09:33:34
+date: 2019-12-17 09:33:34
 tags:
 ---
 
