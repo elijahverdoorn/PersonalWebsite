@@ -2,6 +2,8 @@
 title: Building a Word Clock
 date: 2018-02-10 15:53:48
 tags:
+- Arduino
+- C++
 ---
 
 ![Word Clock Picture](wc.jpg)

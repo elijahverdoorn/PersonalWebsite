@@ -2,6 +2,8 @@
 title: Doing Less to Drive Doing More
 date: 2020-02-12 17:00:00
 tags:
+- Career
+- OSS
 ---
 
 Over the last few months I've experienced a heightened drive to work on side projects and contribute to the open source projects that I rely on, more so than in much of recent memory. I'm not certain why I feel this way, maybe it is because I am entering a phase in my career where I finally feel confident in my ability to take my ideas from concept to completion. Maybe I'm just looking to stay sharp with skills that I don't have the opportunity to use in my day job, or perhaps there exists some other deeper reason for this drive that I fail to fully grasp now but will reveal itself in time. Whatever the reason I've done my best to engage with this creative energy and take advantage of it to the greatest degree I could. I've developed and deployed a few new applications as a result (see my [projects page](https://elijahverdoorn.com/projects/) for details), and I plan to continue to do so as long as I still feel the same push to create.

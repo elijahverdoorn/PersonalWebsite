@@ -2,6 +2,9 @@
 title: Choosing a Reactive Programming Framework for Modern Android Development 
 date: 2019-11-13 14:17:32
 tags:
+- Java
+- Android
+- Kotlin
 ---
 
 The opportunity to participate in the design and development of greenfield applications and systems is, for me, one of the most exciting and energizing engineering challenges that can be undertaken. There is great freedom to be found in the blank canvas, but an empty `main()` function can be quite intimidating at the same time. The sheer number of decisions that must be made early in the development cycle can paralyze skilled developers, even those that are confident in their skills within the codebase that they've become accustomed to. 

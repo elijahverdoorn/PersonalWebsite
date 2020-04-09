@@ -2,6 +2,8 @@
 title: Thoughts on a Summer in the Bay
 date: 2017-09-09 22:01:34
 tags:
+- Android
+- Career
 ---
 
 <img style="display: block; margin: auto; width: 25%;" src="pandoraLogo.png" />
