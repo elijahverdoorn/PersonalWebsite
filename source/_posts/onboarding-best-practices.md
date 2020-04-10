@@ -2,6 +2,7 @@
 title: Thoughts on Best Practices for Technical Onboarding
 date: 2018-12-08 11:17:51
 tags:
+- Career
 ---
 
 Like many tech companies, my team at Pandora experiences its fair share of employee turnover. Between personal experience and talking to others in the industry I know that this can be challenging for even the most well-organized teams since the loss of a long-tenured colleague means the departure of domain knowledge, codebase lore, and may take a bite out of team morale. I don't claim to know how to fix all the problems caused by the loss of a valuable team member, but the work must go on and I do know that their position is often quickly filled by a new individual who is eager to get started. While a new person may never replace your grizzled veteran, you can take steps to help get them up to speed quickly. In an effort to help increase early productivity within my workplace I've been working on optimizing my team's onboarding process to be as efficient as possible. Over the past eight months of leading the advancement and maintenance of these documents, I've made a few observations that may be helpful for others who are looking to improve their equivalent processes.

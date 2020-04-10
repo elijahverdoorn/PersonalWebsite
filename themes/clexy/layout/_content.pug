@@ -71,15 +71,16 @@ else if is_page()
 else if is_post()
   article.full
     h1(itemprop='headline', class='post-heading')= page.title
+    br
+    span.post-meta
+     if page.updated
+        | Last updated on
+        time(itemprop='dateModified', datetime= page.date.toISOString())= full_date(new Date(page.date), ' dddd, MMMM Do YYYY')
     for tag in page.tags.data
       span(class='page-tag-anchor')
+        // | #{'#'+tag.name}
         a(href= config.root + 'tags/' + tag.name, itemprop='url') #{'#'+tag.name}
-            | &nbsp;&nbsp;
-    span.post-meta
-     //- if page.updated
-        br
-        | Last updated on
-        time(itemprop='dateModified', datetime= page.date.toISOString())= full_date(new Date(page.updated), ' dddd, MMMM Do YYYY')
+        | &nbsp;&nbsp;
     br
     br
     != page.content

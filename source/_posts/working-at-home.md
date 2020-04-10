@@ -2,6 +2,8 @@
 title: Working at Home
 date: 2020-03-20 13:07:33
 tags:
+- Career
+- News
 ---
 
 Over the past week, as I'm sure many others in the software world have, I've been adjusting to working at home. The COVID-19 pandemic has hit the SF Bay Area hard, and in order to try to reduce the spread of the virus the local government has imposed a mandatory 14 day shelter-in-place order. This has disrupted the lives of all in the area, especially those working in industries that requires them to interact directly with others: foodservice, hospitality, transportation, and tourism all come to mind as areas of the economy are most hard hit by these dramatic changes to daily life. Supporting these workers is critical to ensuring that the lasting impact of the virus is minimized.
