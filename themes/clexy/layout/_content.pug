@@ -85,6 +85,11 @@ else if is_post()
     br
     != page.content
   br
+  div(class='share')
+    a(class='twitter-share-button', href='https://twitter.com/intent/tweet') Tweet
+    | &nbsp;&nbsp
+    script(src='https://platform.linkedin.com/in.js', type='text/javascript') lang: en_US
+    script(type='IN/Share', data-url=url)
   br
   if page.next
     span(class='next-post')

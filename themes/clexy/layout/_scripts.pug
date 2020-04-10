@@ -15,10 +15,10 @@ if config.disqus_shortname && !is_page()
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
     }());
 
-if is_post()
-  script(async, defer, src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
-  script.
-    (adsbygoogle = window.adsbygoogle || []).push({});
+//if is_post()
+//  script(async, defer, src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+//  script.
+//    (adsbygoogle = window.adsbygoogle || []).push({});
 
 
 script.
@@ -30,4 +30,21 @@ script.
   ga('create', 'UA-102071773-1', 'auto');
   ga('send', 'pageview');
 
+if is_post()
+  script.
+    window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
 
+    t._e = [];
+    t.ready = function(f) {
+    t._e.push(f);
+    };
+
+    return t;
+    }(document, "script", "twitter-wjs"));
