@@ -33,6 +33,10 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: public
+      - name: Make timestamp
+        shell: bash
+        run: |
+          date > public/deploy_timestamp.txt
       - name: rsync deployments
         uses: burnett01/rsync-deployments@4.0
         with:
