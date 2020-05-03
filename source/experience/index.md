@@ -3,12 +3,13 @@ title: Work Experience
 date: 2017-07-08 22:11:45
 ---
 
-I am currently working as a Software Engineer on the Core Platform team at WeWork. See below for descriptions of past roles I've held.
+I am currently seeking Software Engineering opportunities and would gladly explore possibilities across many domains and locations. See below for descriptions of past roles I've held; don't hesitate to be in touch if you are interested in starting a conversation about how I might be able to contribute to helping your organization reach it's goals.
 
 # WeWork
 #### Software Engineer
 Joining WeWork in August 2019 gave me the opportunity to lead the development of a spatial rendering SDK for Android clients. Design, implementation, testing, documentation, and tooling around this SDK all fell under my purview. During the development process of this SDK I established team practices around using Kotlin coroutines, testing under a continuous integration system, and clean code via automated linting and customized lint rules that would eventually be shipped to SDK consumers. This SDK was developed with flexibility and ease of consumption in mind, with adoption beginning within the company and eventually expanding to external consumers.
 
+Following the completion of this SDK project I turned my attention to the design and development of a novel Android application intended to expand WeWork's target market by enabling new experiences within existing WeWork spaces. Developing this application gave me the opportunity to gain experience using GraphQL, expand my knowledge of Kotlin's coroutines, and more deeply understand the process around bringing new products to market. This project also gave me the chance to be a part of making technical decisions early in the life of the application; I completed research and evaluated various options for billing integrations, networking, security, identity management, continuous integration, and release management. Within this evaluation period I balanced criteria related to developer satisfaction, application stability, speed of delivery, and testability. The project was completed on-time with a unit test coverage rate exceeding 75%, resulting in a stable and predictable launch cycle.
 
 # Pandora
 #### Software Engineer
