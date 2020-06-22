@@ -4,7 +4,7 @@ date: 2020-06-21 16:51:01
 tags:
 ---
 
-The prospect of being forced to search for a job during the COVID-19 pandemic is nearly as intimidating as facing down one's first dragon. Be it in video games, tabletop RPGs, or just as a child on the playground, nothing else can quite match the awe and terror that these winged beasts strike in the consciousness of mortal men... As a confessed nerd, I've had quite a few dragon encounters in my day; I've walked away with the most success from these encounters when well-prepared and equipped for them - while magic potions, spells, and armor might have suited my fantasy counterpart, they would likely turn off potential employers. In this case, my quest for employment needs a different toolkit - I've taken a moment to outline my top 10 items below, along with a short explination for each.
+The prospect of being forced to search for a job during the COVID-19 pandemic is nearly as intimidating as facing down one's first dragon. Be it in video games, tabletop RPGs, or just as a child on the playground, nothing else can quite match the awe and terror that these winged beasts strike in the consciousness of mortal men... As a confessed nerd, I've had quite a few dragon encounters in my day; I've walked away with the most success from these encounters when well-prepared and equipped for them - while magic potions, spells, and armor might have suited my fantasy counterpart, they would likely turn off potential employers. In this case, my quest for employment needs a different toolkit - I've taken a moment to outline my top 10 items below, along with a short explanation for each.
 
 1. Wireless Earbuds
 
@@ -20,7 +20,7 @@ While probably not necessary to mention, phones are essential to the job search 
 
 4. Walking shoes
 
-It can be easy to feel as though working on finding a job is a 24-hour task. I fully believe in the idea that finding a job when you don't have one should be your full-time job, it's important to remember that a full-time job doesn't carry 24-hour-a-day reuqirements: taking time off and getting some movement in daily is a great way to separate from the stress of the search. I've made a promise to myself to get at least 10,000 steps a day, picking a goal and reaching it exercise-wise is a good way to feel like you've accomplished something no matter how the job search is going.
+It can be easy to feel as though working on finding a job is a 24-hour task. I fully believe in the idea that finding a job when you don't have one should be your full-time job, it's important to remember that a full-time job doesn't carry 24-hour-a-day requirements: taking time off and getting some movement in daily is a great way to separate from the stress of the search. I've made a promise to myself to get at least 10,000 steps a day, picking a goal and reaching it exercise-wise is a good way to feel like you've accomplished something no matter how the job search is going.
 
 5. Shower
 
@@ -28,13 +28,15 @@ I think well in the shower, always have. Through this search I've resorted to ta
 
 6. Cracking the Coding Interview
 
-Any software engineer reading this post is rolling their eyes at this one: this book gets talked about as a difinitive guide to finding a job and working through the technical interview process. I use it as a simple, understandable reference and source of practice problems. It has a lot of value, is certainly creditable, and I'd recommend that you pick up a copy and at least review the data structures that are identified since these are the most common in interview questions.
+Any software engineer reading this post is rolling their eyes at this one: this book gets talked about as a definitive guide to finding a job and working through the technical interview process. I use it as a simple, understandable reference and source of practice problems. It has a lot of value, is certainly creditable, and I'd recommend that you pick up a copy and at least review the data structures that are identified since these are the most common in interview questions.
 
 7. Spreadsheet
 
+I've found that keeping track of the various job application processes that you have ongoing is best done using a classic spreadsheet. I've been tracking each application that I submit, any referrals or contacts that I have at the company in question, and the dates of interviews as I schedule them. I move rows around based on how far along in the process I am, recolor rows to grab my attention in future, and can filter the list as it grows with ease. The best part of a spreadsheet, in my opinion, is that it's infinitely customizable: add what works for you and adapt as your search evolves.
+
 8. IntelliJ
 
-Engineers use a variety of tools and environments to do their daily work: since I have a focus on Android and Kotlin development, I rely on Android Studio and IntelliJ to help me maximize productivity. Luckily these tools have free versions avaliable that I've begun to use while in between roles. If, however, you find that you're unable to adapt your work to free tools I encourage you to invest in whatever you need to be able to independently pursue improvement of your craft while you're in the searching process. Being able to produce samples, learn new skills, and create while you're in the job search process is empowering and gives you more material to talk about in interviews.
+Engineers use a variety of tools and environments to do their daily work: since I have a focus on Android and Kotlin development, I rely on Android Studio and IntelliJ to help me maximize productivity. Luckily these tools have free versions available that I've begun to use while in between roles. If, however, you find that you're unable to adapt your work to free tools I encourage you to invest in whatever you need to be able to independently pursue improvement of your craft while you're in the searching process. Being able to produce samples, learn new skills, and create while you're in the job search process is empowering and gives you more material to talk about in interviews.
 
 9. PocketCasts
 
