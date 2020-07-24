@@ -2,6 +2,8 @@
 title: My Kotlin Toolbelt
 date: 2020-07-24 16:15:34
 tags:
+- Kotlin
+- Android
 ---
 
 Adopting Kotlin as my primary development language has been a great experience, improving my day-to-day satisfaction in my professional work developing Android apps and increasing my motivation to further my skills in my spare time. Having a language that provides a concrete foundation upon which to build is critical, but it's the community developments that spring up on top of that foundation that either keep me coming back to a language or drive me away to explore other options. Kotlin's community and auxiliary packages continue to impress me, below are a few of the libraries that I rely on and would encourage developers to check out, no matter where you are in your Kotlin journey.
