@@ -9,6 +9,6 @@ At St. Olaf, I quickly established myself as a leader in the Department of Mathe
 
 Outside of the classroom, I was heavily involved in the Student Government Association where I held an executive level position as the Chief Technology Officer, leading a team of engineers to develop the student website and create a mobile application for student use on campus. I learned a lot in this role about more than just software development, having a voice in major campus decisions through the student senate. My work with student government also taught me a lot about event planning and community management, working to create a more inclusive set of events on campus.
 
-Following my graduation from St. Olaf I moved to the San Francisco Bay Area to begin a career in the software industry, working on the Android team at Pandora. Additional information about my career path so far can be found on the Experience page of this website.
+Following my graduation from St. Olaf I moved to the San Francisco Bay Area to begin a career in the software industry, working on the Android team at Pandora. Following a successful tenure there, I subsequently worked developing SDKs for WeWork as a member of the Core Platform team. The COVID-19 pandemic caused that opportunity to close; I'm now enjoying working at Robinhood. Additional information about my career path so far can be found on the Experience page of this website.
 
-In my free time I enjoy singing, motorcycling, weight lifting, cooking, playing video games, spending time with my family, and walking my two dogs.
+In my free time I enjoy singing, writing, motorcycling, weight lifting, cooking, playing video games, spending time with family, and walking my two dogs.
