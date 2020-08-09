@@ -3,7 +3,7 @@ title: Work Experience
 date: 2017-07-08 22:11:45
 ---
 
-I am currently seeking Software Engineering opportunities and would gladly explore possibilities across many domains and locations. See below for descriptions of past roles I've held; don't hesitate to be in touch if you are interested in starting a conversation about how I might be able to contribute to helping your organization reach it's goals.
+I am currently working as a Software Engineer at Robinhood!
 
 # WeWork
 #### Software Engineer
