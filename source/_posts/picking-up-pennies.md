@@ -1,10 +1,12 @@
 ---
 title: Picking Up Pennies
-date: 2020-04-01 14:04:11
+date: 2020-09-12 14:04:11
 tags:
 ---
 
 ![Penny](penny.jpg)
+
+> Author's Note: This article was written in April 2020, but not published until September 2020. The world, and my life along with it, has change significantly since then; please bear this in mind while reading.
 
 According to the step-tracker built into my phone, thus far in 2020 I have walked, on average, 7.16 miles per day. This is, of course, just a rough estimate, but it seems reasonable to me: I walk about 2 miles every morning to catch a train to the office and about a mile and a half at night to return to my apartment, I take a walking break at lunch to clear my head and get some fresh air; factoring in the rest of my daily steps around the office, errands, and general activity I can accept 7.16 miles as a ballpark estimate. Given the distance, this clearly means I spend a good chunk of my day on my feet - I fill this time by consuming _a lot_ of audio entertainment: music, podcasts, and audiobooks are staples in my media diet.
 
