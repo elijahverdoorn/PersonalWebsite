@@ -9,12 +9,19 @@ Could you build a bridge across 2 tables up to feet apart capable of holding up 
 “If you don’t use it, you lose it.” This sadly true adage is one that I’m sure has bit everyone at some point; we have all muttered under our breath “this used to be easier…”. Luckily there is a simple way to address this: we just have to keep using our skills after we develop them. I’ve needed to do this with the skills that I developed in DI: it’s easy to go through a day as an adult without really needing to stretch the creative muscle, especially for someone like myself who is routine-oriented.
 
 You can practice creativity in your everyday life just by adding restrictions to activities that you are already doing. Some ideas:
-- Skip the gym, find ways to train at home. Search for something that is heavy, lift that in a variety of ways, emulate the movements that you would do in a gym with weights. You might even have already done this at the start of the COVID-19 pandemic!
-- Cook with limited ingredients. A great way to save some money and clean out the pantry all at once is to challenge yourself to eat for some period of time with just what you already have.
-- If you’d rather not limit ingredients in the kitchen you can always limit the techniques that you use. Unplug your oven, stove, microwave: what can you make with just a panini press? A waffle maker? Can you do a full meal? How about a full day of cooking?
-- Have a vacation day/weekend around your home town/city without spending any money - you’d be surprised what you can find to do for free!
-- Do art, but don’t buy art supplies; you can use things that you would throw out to make something new. Can you make something to decorate your living space with? In the past year I’ve adorned my apartment with art made from discs from old computer games that I played growing up.
-- Find new uses for everyday household objects.
+
+1. Skip the gym, find ways to train at home. Search for something that is heavy, lift that in a variety of ways, emulate the movements that you would do in a gym with weights. You might even have already done this at the start of the COVID-19 pandemic!
+
+2. Cook with limited ingredients. A great way to save some money and clean out the pantry all at once is to challenge yourself to eat for some period of time with just what you already have.
+
+3. If you’d rather not limit ingredients in the kitchen you can always limit the techniques that you use. Unplug your oven, stove, microwave: what can you make with just a panini press? A waffle maker? Can you do a full meal? How about a full day of cooking?
+
+
+4. Have a vacation day/weekend around your home town/city without spending any money - you’d be surprised what you can find to do for free!
+
+5. Do art, but don’t buy art supplies; you can use things that you would throw out to make something new. Can you make something to decorate your living space with? In the past year I’ve adorned my apartment with art made from discs from old computer games that I played growing up.
+
+6. Find new uses for everyday household objects.
 
 My inspirations for this come from many of the major influences that I had growing up. My mom is a master of using grocery bags for any and everything. She avoids doing unnecessary dishes by using plastic bags as bowl liners when cooking. I was shocked to discover her ability to create pasta salad and only dirty a spoon! She’s always used brown paper bags to serve popcorn: this keeps the oil/butter on the popcorn from making it soggy and again saves a dish. These two are just a few of the more commonplace uses she’s made for what some consider trash, through the years I’ve gotten to witness similar ingenuity on many occasions.
 
